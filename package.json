@@ -1,0 +1,24 @@
+{
+  "name": "heart-shaped-rocks",
+  "version": "1.0.0",
+  "description": "<h1 align=center>Meghna Hugo Theme</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luthera/heart-shaped-rocks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luthera/heart-shaped-rocks/issues"
+  },
+  "homepage": "https://github.com/luthera/heart-shaped-rocks#readme",
+  "dependencies": {
+    "@tinacms/cli": "^1.5.14",
+    "tinacms": "^1.5.6"
+  }
+}
